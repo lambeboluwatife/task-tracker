@@ -59,6 +59,7 @@ const App = () => {
       ) : (
         "No Tasks To Show"
       )}
+      <div>Double click on a task to toggle reminder.</div>
     </div>
   );
 };
