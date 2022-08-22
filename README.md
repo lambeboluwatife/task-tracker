@@ -3,7 +3,7 @@
 This is a simple react crash course project that allows users 
 1.  to add a task
 2.  delete a task
-3.  set reminder for a task
+3.  set reminder for a task (double click on a task to toggle reminder)
 
 ## Available Scripts
 
