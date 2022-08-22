@@ -3,7 +3,7 @@
 This is a simple react crash course project that allows users 
 1.  to add a task
 2.  delete a task
-3.  set reminder for a task
+3.  set reminder for a task (double click on a task to toggle reminder)
 
 ## Available Scripts
 
@@ -12,9 +12,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+Open https://task-tracker-lbd.netlify.app/ for the live site.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 
 ### `npm run build`
 
