@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://img.favpng.com/12/8/14/computer-icons-task-portable-network-graphics-management-action-item-png-favpng-Qi6zdTwTbvVtGTwZP46BCZCYt.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://img.favpng.com/12/8/14/computer-icons-task-portable-network-graphics-management-action-item-png-favpng-Qi6zdTwTbvVtGTwZP46BCZCYt.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://img.favpng.com/12/8/14/computer-icons-task-portable-network-graphics-management-action-item-png-favpng-Qi6zdTwTbvVtGTwZP46BCZCYt.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
